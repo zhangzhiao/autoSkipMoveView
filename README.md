@@ -1,0 +1,2 @@
+# autoSkipMoveView
+自动跳过规避View的可自由移动的View
